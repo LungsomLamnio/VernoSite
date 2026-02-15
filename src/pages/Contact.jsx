@@ -34,7 +34,7 @@ const Contact = () => {
                 <div>
                   <h3 className="text-[10px] font-black text-gray-400 uppercase tracking-widest mb-1">Email Us</h3>
                   <p className="text-xl font-bold text-gray-900 hover:text-[#FFB000] transition-colors cursor-pointer">
-                    contact@vernovate.com
+                    vernovate@gmail.com
                   </p>
                 </div>
               </div>
